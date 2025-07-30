@@ -1,0 +1,60 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Arial', sans-serif;
+    color: #d10034; /* romantic red */
+    margin: 0;
+    padding: 40px 10px;
+    position: relative;
+    background-image: url('../Assest/heart.png'); /* optional background */
+    background-repeat: repeat;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+.just-because {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff0f5;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(255, 105, 135, 0.3);
+    text-align: center;
+}
+
+.just-because h1 {
+    color: #e6005c;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.paragraphs {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #333;
+    text-align: left;
+}
+
+.paragraphs p {
+    margin-bottom: 20px;
+}
+
+.paragraphs strong {
+    color: #e6005c;
+    font-size: 18px;
+}
+
+.paragraphs img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    display: block;
+    margin: 10px auto;
+}
+
+audio {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    width: 90%;
+    max-width: 400px;
+}
